@@ -12,7 +12,7 @@ matrix_2d = arr.reshape(3, 4)
 print("2D matrix with 3 rows and 4 columns:\n", matrix_2d)
 print("-" * 40)
 
-# 3. Now, convert it into a 3D array
+# 3. Now, convert it into a 3D array.............
 # We will create 2 layers, with each layer having 2 rows and 3 columns
 # A total of (2 * 2 * 3) = 12 elements are required
 matrix_3d = arr.reshape(2, 2, 3)
