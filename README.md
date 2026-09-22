@@ -304,24 +304,7 @@ print(np.__version__)
 
 ---
 
-# 📁 Repository Structure
 
-```text
-numpy-learning/
-│
-├── basics/
-├── arrays/
-├── indexing-slicing/
-├── mathematical-operations/
-├── reshaping/
-├── broadcasting/
-├── random/
-├── statistics/
-├── linear-algebra/
-└── README.md
-```
-
----
 
 # 🎯 Learning Goals
 
@@ -355,12 +338,3 @@ NumPy is commonly used together with:
 
 ---
 
-## 👨‍💻 Author
-
-**Estiak Aktar Roes**
-
-Learning Python, NumPy, Data Science, and Machine Learning step by step.
-
----
-
-⭐ If you find this repository useful, consider giving it a star!
