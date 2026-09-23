@@ -6,7 +6,10 @@ print("Original array (1D):", arr)
 print("Shape of the original array:", arr.shape) # Output will be (12,)
 print("-" * 40)
 
-# 2. Convert the 1D array into a 2D matrix (3 rows and 4 columns)
+
+
+# 2... Convert the 1D array into a 2D matrix 
+# (3 rows and 4 columns)
 # For 3 rows and 4 columns, a total of (3 * 4) = 12 elements are required
 matrix_2d = arr.reshape(3, 4)
 print("2D matrix with 3 rows and 4 columns:\n", matrix_2d)
